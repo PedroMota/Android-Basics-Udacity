@@ -67,6 +67,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:onClick="submitOrder"
-        android:text="ORDER" />
+        android:textAllCaps="true"
+        android:text="Order" />
 
 </LinearLayout>
